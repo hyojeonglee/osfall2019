@@ -1,7 +1,7 @@
 # Project 1
 
 * Assigned: 2019-09-18 Wed 18:30:00 KST
-* **Due: 2019-10-08 Tue 14:00:00 KST**
+* **Due: 2019-10-08 Tue 13:00:00 KST**
 
 ## Introduction
 
