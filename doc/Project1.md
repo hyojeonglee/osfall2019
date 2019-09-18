@@ -1,13 +1,13 @@
 # Project 1
 
 * Assigned: 2019-09-18 Wed 18:30:00 KST
-* **Due: 2019-10-08 Tue 14:00:00 KST**
+* **Due: 2019-10-08 Tue 13:00:00 KST**
 
 ## Introduction
 
 This assignment includes implementing a new system call in Linux. It returns the process tree information in depth-first-search order.
 
-This is a team project. Each team will have access to its own GitHub repository (e.g. `hyojeonglee/os-team1`) for collaboration and submission. Your final code and `README.md` document have to be committed into the _proj1_ branch for submission. Start from [kernel source](https://github.com/hyojeonglee/tizen-5.0-rpi3) and make incremental changes to get things done.
+This is a team project. Each team will have access to its own GitHub repository (e.g. `hyojeonglee/osfall2019-team1`) for collaboration and submission. Your final code and `README.md` document have to be committed into the _proj1_ branch for submission. Start from [kernel source](https://github.com/hyojeonglee/tizen-5.0-rpi3) and make incremental changes to get things done.
 
 ## 1. Writing `ptree` System Call (45 pts.)
 
