@@ -2,7 +2,7 @@
 
 * Assigned: 2019-09-18 Wed 18:30:00 KST
 * **Due: 2019-10-08 Tue 13:00:00 KST**
-* Help document: [doc](/presentations/Project 1 Help Document-0.pdf)
+* Help document: [doc](https://github.com/hyojeonglee/osfall2019/tree/master/presentations)
 
 ## Introduction
 

@@ -3,7 +3,7 @@
 * Assigned: 2019-09-18 Wed 18:30:00 KST
 * **Due: 2018-09-24 Tue 13:00:00 KST**
 * Check your submission status [here](/doc/Project0Submissions.md)
-* Help document: [doc](/presentations/Development\ Environment\ and\ Debugging\ Tips-0.pdf)
+* Help document: [here](https://github.com/hyojeonglee/osfall2019/tree/master/presentations)
 
 ## Introduction
 
