@@ -2,6 +2,7 @@
 
 * Assigned: 2019-09-18 Wed 18:30:00 KST
 * **Due: 2019-10-08 Tue 13:00:00 KST**
+* Help document: [Project 1 Help Document-0.pdf](/presentations/Project 1 Help Document-0.pdf)
 
 ## Introduction
 
