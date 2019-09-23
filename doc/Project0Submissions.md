@@ -2,7 +2,7 @@
 
 This list is updated on a daily basis.
 
-Total submissions: 25 / 33
+Total submissions: 30 / 33
 
 The TAs have received the result of Project 0 from the following students.
 
@@ -31,4 +31,8 @@ The TAs have received the result of Project 0 from the following students.
 - 부경욱
 - 명기현
 - 이광진
-- 
+- 김동현
+- 김연수
+- 이현제
+- 손예준
+- 박상수
