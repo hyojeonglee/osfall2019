@@ -2,8 +2,6 @@
 
 This list is updated on a daily basis.
 
-Total submissions: 30 / 33
-
 The TAs have received the result of Project 0 from the following students.
 
 - 윤석찬
@@ -36,3 +34,5 @@ The TAs have received the result of Project 0 from the following students.
 - 이현제
 - 손예준
 - 박상수
+- 정경준
+- 
