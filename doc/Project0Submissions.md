@@ -35,4 +35,4 @@ The TAs have received the result of Project 0 from the following students.
 - 손예준
 - 박상수
 - 정경준
-- 
+- 양경모
