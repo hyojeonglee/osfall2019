@@ -1,7 +1,7 @@
 # Project 2: Weighted Round-Robin Scheduler
 
 * Assigned: 2019-10-08 Tuesday 15:00:00 KST
-* **Due: 2019-10-24 Thursday 13:00:00 KST**
+* **Due: 2019-10-31 Thursday 13:00:00 KST**
 * Help Document: [doc](https://github.com/hyojeonglee/osfall2019/tree/master/presentations)
 
 ## Introduction
