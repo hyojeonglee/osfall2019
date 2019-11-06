@@ -19,4 +19,4 @@
   - Office hours: Tue/Thu 13:00-14:00, by appointment
 
 **TAs**:
-  - Bldg. 302, Rm. 319-1 (DCSlab)
+  - Bldg. 302, Rm. 319 (DCSlab)
